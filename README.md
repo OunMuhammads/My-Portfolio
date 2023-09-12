@@ -18,5 +18,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦠 [FIFA World Cup 1930-2014] |  | [Dashboard](https://public.tableau.com/app/profile/oun.muhammad/viz/FIFAWorldCup1994-2014/FIFAWorldCup1930-2014) |
+| 🦠 [FIFA World Cup 1930-2014] | Work In Progress | [Dashboard](https://public.tableau.com/app/profile/oun.muhammad/viz/FIFAWorldCup1994-2014/FIFAWorldCup1930-2014) |
 ***
