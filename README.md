@@ -10,6 +10,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
+| 💡 [SQL Crash Course](https://https://github.com/OunMuhammads/SQL-Projects/tree/main/SQL%20Crash%20Course) | Basic SQL | This repo serves as the solution for the the [SQL Crash Course](https://uplimit.com/course/sql-crash-course). Uplimit’s SQL Crash Course, was a 2 week crash course in the foundations of SQL including filtering and sorting data, aggregations, complex filtering logic and built-in date/string predicates, and the GROUP BY and HAVING clause. I was able to complete projects where I queried data including an analysis of pricing and revenue for Airbnb listings in Sydney, Australia. | 
 | 💡 [8-Week SQL Challenges](https://github.com/OunMuhammads/8WeeksSQLChallenges) | Work In Progress | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
 
 ***
