@@ -16,9 +16,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 # Tableau
-[Attached are links to my academic assignments and personal projects for your review](https://public.tableau.com/app/profile/oun.muhammad)
+[Here you can access my academic assignments and personal projects for your review.](https://public.tableau.com/app/profile/oun.muhammad)
 
-| Project Link |  Area | Project Description | Dashboard Link |
+| Project |  Area | Project Description | Dashboard Link |
 |---|---|---|---|
 | FIFA World Cup 1930-2014 | Sports Analytics, Data Visualization | The project involves creating an interactive Tableau dashboard to visualize and explore patterns in the FIFA World Cup tournament data over the years. The dashboard contains visualizations that break down aspects like number of goals, wins by country, hosting countries, finalists, and tournament statistics over time. | [Dashboard](https://public.tableau.com/app/profile/oun.muhammad/viz/FIFAWorldCup1994-2014/FIFAWorldCup1930-2014) |
 ***
