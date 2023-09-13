@@ -25,6 +25,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [Chat Bot](https://github.com/OunMuhammads/pytorch-ChatBot) | Natural Language Processing, Conversational AI | The project trains a sequence-to-sequence neural network model to have conversations. The model is trained on conversational dialog data to generate human-like responses to user input queries and statements. | PyTorch, TorchText, Numpy, NLTK | 
+| 👩🏻‍💻 [Chat Bot](https://github.com/OunMuhammads/pytorch-ChatBot) | Natural Language Processing, Conversational AI | This is an NLP focused conversational chatbot project leveraging deep learning and sequence-to-sequence models to create an artificial agent that can have natural conversations with humans. The model is trained on conversational dialog data to generate human-like responses to user input queries and statements. | PyTorch, TorchText, Numpy, NLTK | 
 
 ***
