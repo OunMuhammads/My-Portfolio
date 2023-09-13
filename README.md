@@ -17,14 +17,14 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ***
 # Tableau
 
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-| [FIFA World Cup 1930-2014] | Work In Progress | [Dashboard](https://public.tableau.com/app/profile/oun.muhammad/viz/FIFAWorldCup1994-2014/FIFAWorldCup1930-2014) |
+| Project Link |  Area | Project Description | Dashboard Link |
+|---|---|---|---|
+| [FIFA World Cup 1930-2014] | Sports Analytics, Data Visualization | The project involves creating an interactive Tableau dashboard to visualize and explore patterns in the FIFA World Cup tournament data over the years. The dashboard contains visualizations that break down aspects like number of goals, wins by country, hosting countries, finalists, and tournament statistics over time. | [Dashboard](https://public.tableau.com/app/profile/oun.muhammad/viz/FIFAWorldCup1994-2014/FIFAWorldCup1930-2014) |
 ***
 # Python
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-|[ChatBot](https://github.com/OunMuhammads/pytorch-ChatBot#readme) | Natural Language Processing, Conversational AI | This is an NLP focused conversational chatbot project leveraging deep learning and sequence-to-sequence models to create an artificial agent that can have natural conversations with humans. The model is trained on conversational dialog data to generate human-like responses to user input queries and statements. | PyTorch, TorchText, Numpy, NLTK | 
+|[PyTorch-ChatBot](https://github.com/OunMuhammads/pytorch-ChatBot#readme) | Natural Language Processing, Conversational AI | This is an NLP focused conversational chatbot project leveraging deep learning and sequence-to-sequence models to create an artificial agent that can have natural conversations with humans. The model is trained on conversational dialog data to generate human-like responses to user input queries and statements. | PyTorch, TorchText, Numpy, NLTK | 
 
 ***
