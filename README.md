@@ -16,6 +16,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 # Tableau
+[Attached are links to my academic assignments and personal projects for your review](https://public.tableau.com/app/profile/oun.muhammad)
 
 | Project Link |  Area | Project Description | Dashboard Link |
 |---|---|---|---|
